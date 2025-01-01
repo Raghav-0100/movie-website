@@ -1,5 +1,7 @@
 .App {
-  background-color: black;
+  background-color: black!important; 
   color: white;
   font-family: sans-serif;
 }
+
+
